@@ -1,4 +1,14 @@
+/* Header styling */
+header {
+  background-color: darkcyan;  /* initial color */
+  text-align: right;           /* aligns logo to the right */
+  padding: 10px;
+}
 
+/* Optional: adjust logo size */
+header img {
+  height: 60px;               /* adjust as needed */
+}
 
 h1 {
   font-size: 40px;
